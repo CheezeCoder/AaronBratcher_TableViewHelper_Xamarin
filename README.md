@@ -1,4 +1,4 @@
-# AaronBratcher_TableViewHelper_Xamarin
+# A Port to Xamarin of Aaron Bratcher's TableViewHelper for iOS
 This is a port of Aaron Bratchers TableViewHelper for iOS https://github.com/AaronBratcher/TableViewHelper
 
 I have taken the code provided by Aaron Bratcher and ported it over to C# in the Xamarin framework.
